@@ -42,3 +42,32 @@ model = simon.simon_pipeline(simon_transformer=simon_model, percentile=25)
 
 # model also implemtens fit() and transform()
 ```
+
+## Cite
+
+If you use this work, please cite the following paper:
+Oscar Araque, Ganggao Zhu, Carlos A. Iglesias,
+A semantic similarity-based perspective of affect lexicons for sentiment analysis,
+Knowledge-Based Systems,
+Volume 165,
+2019,
+Pages 346-359,
+ISSN 0950-7051,
+https://doi.org/10.1016/j.knosys.2018.12.005.
+(http://www.sciencedirect.com/science/article/pii/S0950705118305926)
+Keywords: Sentiment analysis; Sentiment lexicon; Semantic similarity; Word embeddings
+
+```
+@article{ARAQUE2019346,
+title = "A semantic similarity-based perspective of affect lexicons for sentiment analysis",
+journal = "Knowledge-Based Systems",
+volume = "165",
+pages = "346 - 359",
+year = "2019",
+issn = "0950-7051",
+doi = "https://doi.org/10.1016/j.knosys.2018.12.005",
+url = "http://www.sciencedirect.com/science/article/pii/S0950705118305926",
+author = "Oscar Araque and Ganggao Zhu and Carlos A. Iglesias",
+keywords = "Sentiment analysis, Sentiment lexicon, Semantic similarity, Word embeddings",
+}
+```
